@@ -16,7 +16,7 @@
 ## Tools and Languages:
 
 ### Frontend:
-[![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white?style=for-the-badge)]
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white?style=for-the-badge)
 
 <!--
 **MegaDestro/MegaDestro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
