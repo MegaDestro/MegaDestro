@@ -1,6 +1,6 @@
 # Hello!	Harsh here👋
 
-- 👨‍💻 Currently working on: Myself😎 (and my portfolio)
+- 👨‍💻 Currently working on: Myself😎 (and my portfolio😅)
 - 📚 Currently learning: Advanced python and its applications🐍
 - 📫 How to reach me: hks01110@gmail.com
 
